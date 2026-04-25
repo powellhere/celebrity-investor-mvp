@@ -1,4 +1,4 @@
-# Win95 Investor MVP
+# Investor MVP
 
 一个 Win95 风格的投资人批判分析器。
 
